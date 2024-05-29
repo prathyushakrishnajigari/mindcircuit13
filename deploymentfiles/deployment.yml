@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image:  prathyushakrishnajigari/myrepo:tag
+        image:  prathyushakrishnajigari/myrepo:2
         ports:
         - containerPort: 8080
 
